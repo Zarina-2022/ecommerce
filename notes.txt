@@ -1,0 +1,9 @@
+Dependencies:
+- tailwind
+- react-router-dom
+- redux
+- react-redux
+- redux-thunk
+- react-icons
+- npm install --save redux-devtools-extension
+
